@@ -1,2 +1,2 @@
-# ArduinoMMU
-Repository for Arduino MMU files
+# SMuFF Exsurger Mod
+Repository for SMuFF Exsurger Mod files
