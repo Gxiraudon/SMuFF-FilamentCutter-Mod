@@ -1,2 +1,2 @@
-# SMuFF Exsurger Mod
-Repository for SMuFF Exsurger Mod files
+# SMuFF Filament Cutter Mod
+Repository for SMuFF Filament Cutter Mod files
