@@ -3,9 +3,11 @@ Repository for SMuFF Filament Cutter Mod files
 
 This is the github repository for the SMuFF filament Cutter mod.
 
-3D models are found on the included zip file \n
-a wiring diagram for the experimental setup is provided \n
-the Arduino sketch to run the experiment is also included. \n
+3D models are found on the included zip file
+
+a wiring diagram for the experimental setup is provided
+
+the Arduino sketch to run the experiment is also included.
 
 more files will come in this repository as this project moves forward.
 
