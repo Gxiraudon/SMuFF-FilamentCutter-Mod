@@ -11,6 +11,9 @@ the Arduino sketch to run the experiment is also included.
 
 more files will come in this repository as this project moves forward.
 
+The 3d Design on TinkerCAD. proper instructions coming in the future
+https://www.tinkercad.com/things/0I7fu4MvzcM/edit?sharecode=fSBOsQkcY6fNNTz2X1v31kIn7odHxSeTm6OkFLwZF44
+
 Links to Technik Gegg's SMuFF website
 https://sites.google.com/view/the-smuff/
 
