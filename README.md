@@ -14,6 +14,9 @@ more files will come in this repository as this project moves forward.
 The 3d Design on TinkerCAD. proper instructions coming in the future
 https://www.tinkercad.com/things/0I7fu4MvzcM-smuff-filament-cutter-mod/edit?sharecode=fSBOsQkcY6fNNTz2X1v31kIn7odHxSeTm6OkFLwZF44
 
+Bill of Materials
+https://docs.google.com/spreadsheets/d/1x6tIY0JWmdNU_u3pPToNOLqT08F3uS22uNf-0e39yVg/edit?usp=sharing
+
 Links to Technik Gegg's SMuFF website
 https://sites.google.com/view/the-smuff/
 
